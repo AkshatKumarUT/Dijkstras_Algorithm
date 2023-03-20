@@ -2,7 +2,8 @@
 
 */
 
-package dijkstrasalgorithm;
+//package to be used when opened in Netbeans
+//package dijkstrasalgorithm;
 
 import java.util.ArrayList;
 
